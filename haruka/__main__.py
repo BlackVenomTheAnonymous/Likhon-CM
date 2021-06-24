@@ -27,9 +27,9 @@ You know how hard it is sometimes to manage group so here is the solution for yo
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
-The Bot Made by [Likhon Sheikh 🌍](t.me/GodFatherMob)
+The Bot Made by [Likhon Sheikh 😎](t.me/GodFatherMob)
 
-Official Groups [Click Here](https://t.me/botpythonbd)
+Official Groups [Click Here](https://t.me/botpythonbd) """
 
 
 
